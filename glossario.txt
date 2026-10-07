@@ -1,0 +1,9 @@
+directory: Pasta
+init: initialize, prepara a pasta para usar o git nela.
+commit: confirmar versão, ponto de registro, que permite voltar ou comparar mudanças, é uma foto da versao dos arquivos
+pwd:print working directory, mostra diretorio de trabalho, comando que exibe o directory que estou atualmente
+ls: list, lista oque tem dentro da pasta
+cd: change directory
+mkdir: make directory, cria um novo directorio
+cp: copy
+rm: remove
