@@ -7,3 +7,10 @@ cd: change directory
 mkdir: make directory, cria um novo directorio
 cp: copy
 rm: remove
+-m: message, mensagem do commit
+git: programa do computador, guarda históico das versões 
+github: site que guarda copia dos repositorios na internet
+push: empurrar, envia commits pro github
+branch: ramificação, mexe nas branches
+-m: move(force) 
+main: principal
